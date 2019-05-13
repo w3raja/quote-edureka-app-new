@@ -1,0 +1,14 @@
+{
+  "name": "quote-edureka-app",
+  "version": "1.0.0",
+  "description": "Random quote application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "ilayaraja",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
